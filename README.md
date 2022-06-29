@@ -7,7 +7,7 @@ The system consists of two sub-systems:
 * The weapon system is built on logical gates and flip-flops alone.
 * The target system is based on the macro processor of the 8051 series.
 * I have put emphasis on the environment and 80% of the project was made using recycled scraps (electronic as well).
-### To watch the project presentation, click here, <a href='https://drive.google.com/file/d/1eZV-zV45IazZ2ldJHvTNLxqbBZEjoZhz/view?usp=sharing'>click here<a>
+### To watch the project presentation, <a href='https://drive.google.com/file/d/1eZV-zV45IazZ2ldJHvTNLxqbBZEjoZhz/view?usp=sharing'>click here<a>
 
 ____
 
