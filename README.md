@@ -1,5 +1,6 @@
 # Infantry-training-system
 Practical engineer final project. (Code language: C++)
+
 The system consists of two sub-systems:
 1. An Assault-rifle-like transmitter, requiring all operations required for ordinary assault rifles including a final stop and a first stop, transmitting with a laser beam.
 2. A receiver consists of 4 jumping and moving targets and an LCD screen showing the results of the training, receiving with LDR.
